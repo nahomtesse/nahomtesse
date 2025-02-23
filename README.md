@@ -36,8 +36,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
-<a href="https://github.com/nahomtesse">
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=nahomtesse)](https://github.com/nahomtesse/github-contribution-stats/)
+<a href="https://github.com/nahomtesse">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahomtesse&theme=midnight_purple" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahomtesse&theme=midnight_purple" height="180em" />
 </div>
