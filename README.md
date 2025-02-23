@@ -43,8 +43,6 @@
 <div align="center">
 <a href="https://github.com/nahomtesse">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nahomtesse&theme=midnight_purple" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nahomtesse&theme=midnight_purple" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nahomtesse&theme=midnight_purple" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nahomtesse&theme=midnight_purple" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nahomtesse&theme=midnight_purple" height="180em" />
 </div>
